@@ -4,5 +4,8 @@ class A{
  A(int no){
  this.no=no;
  }
+	//사는게 사는게 아니야 ..
+	public in getNo() {
+	return this.no;}
 
 }
